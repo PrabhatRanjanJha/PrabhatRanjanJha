@@ -132,14 +132,6 @@ Interactive site teaching DSA concepts (arrays, recursion, sorting) through visu
 
 <br>
 
-### 🔥 GitHub Streak
-
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=PrabhatRanjanJha&theme=tokyonight&hide_border=true" />
-</div>
-
-<br>
-
 ### 📡 Let's Connect
 
 <div align="center">
