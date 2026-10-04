@@ -46,6 +46,41 @@
 <tr>
 <td width="50%" valign="top">
 
+<h4>⚡ Relayo</h4>
+
+Multi-agent AI automation system for a messaging startup — email, billing, Discord, and health monitoring, with human-in-the-loop review throughout.
+
+![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Groq](https://img.shields.io/badge/-Groq-282C34?style=flat-square)
+![AI Agents](https://img.shields.io/badge/-AI%20Agents-282C34?style=flat-square)
+
+<a href="https://github.com/PrabhatRanjanJha/Relayo">
+<img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h4>🎓 TA Doubt Assistant</h4>
+
+RAG-powered doubt resolution system for TAs — semantic search, auto-answering, follow-up memory, and auto-growing knowledge base.
+
+![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![RAG](https://img.shields.io/badge/-RAG-282C34?style=flat-square)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-282C34?style=flat-square)
+
+<a href="https://github.com/PrabhatRanjanJha/ta-doubt-assistant">
+<img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+
+<tr><td colspan="2"><br></td></tr>
+
+<tr>
+<td width="50%" valign="top">
+
 <h4>🩸 Blood Donor Finder</h4>
 
 React app to search & filter blood donors with live availability sorting and a request-help flow.
